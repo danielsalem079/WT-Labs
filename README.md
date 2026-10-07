@@ -10,7 +10,7 @@ pattern in development of the Bot
 ## Webex Messaging API (4 marks)
 | Criteria | Details |
 |---------|---------|
-| API Base URL | `_______________________________` |
+| API Base URL | `https://webexapis.com/v1` |
 | Authentication Method | `_______________________________` |
 | Endpoint to list rooms | `_______________________________` |
 | Endpoint to get messages | `_______________________________` |
