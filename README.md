@@ -1,5 +1,5 @@
 # 🚀 Space Bot API Investigation Sheet
-**Total Marks: 40**
+**Total Marks: 40**https://github.com/danielsalem079/WT-Labs/blob/main/README.md
 **TASK 1: Collect Required API Documentation**
 This investigation sheet helps you gather key technical information from the three
 APIs required for the Space Bot project: **Webex Messaging API**, **ISS Current
@@ -10,11 +10,11 @@ pattern in development of the Bot
 ## Webex Messaging API (4 marks)
 | Criteria | Details |
 |---------|---------|
-| API Base URL | `https://webexapis.com/v1` |
+| API Base URL | `https://developer.webex.com/messaging/docs/api/v1` |
 | Authentication Method | `BEARER token` |
 | Endpoint to list rooms | `https://developer.webex.com/messaging/docs/api/v1/rooms/list-rooms` |
-| Endpoint to get messages | `_______________________________` |
-| Endpoint to send message | `_______________________________` |
+| Endpoint to get messages | `https://developer.webex.com/messaging/docs/api/v1/messages/get-message-details` |
+| Endpoint to send message | `https://developer.webex.com/messaging/docs/api/v1/messages/create-a-message` |
 | Required headers | `_______________________________` |
 | Sample full GET or POST request | `_______________________________` |
 ---
