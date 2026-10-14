@@ -10,12 +10,12 @@ pattern in development of the Bot
 ## Webex Messaging API (4 marks)
 | Criteria | Details |
 |---------|---------|
-| API Base URL | `https://developer.webex.com/messaging/docs/api/v1` |
+| API Base URL | `https://webexapis.com/v1` |
 | Authentication Method | `BEARER token` |
-| Endpoint to list rooms | `https://developer.webex.com/messaging/docs/api/v1/rooms/list-rooms` |
-| Endpoint to get messages | `https://developer.webex.com/messaging/docs/api/v1/messages/get-message-details` |
-| Endpoint to send message | `https://developer.webex.com/messaging/docs/api/v1/messages/create-a-message` |
-| Required headers | `_______________________________` |
+| Endpoint to list rooms | `https://webexapis.com/v1/rooms` |
+| Endpoint to get messages | `https://webexapis.com/v1/messages/{messageId}` |
+| Endpoint to send message | `https://webexapis.com/v1/messages` |
+| Required headers | `Authorization: Bearer YOUR_ACCESS_TOKEN Content-Type: application/json` |
 | Sample full GET or POST request | `_______________________________` |
 ---
 ## ISS Current Location API (2 marks)
