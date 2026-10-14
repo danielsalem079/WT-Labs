@@ -12,7 +12,7 @@ pattern in development of the Bot
 |---------|---------|
 | API Base URL | `https://webexapis.com/v1` |
 | Authentication Method | `BEARER token` |
-| Endpoint to list rooms | `_______________________________` |
+| Endpoint to list rooms | `https://developer.webex.com/messaging/docs/api/v1/rooms/list-rooms` |
 | Endpoint to get messages | `_______________________________` |
 | Endpoint to send message | `_______________________________` |
 | Required headers | `_______________________________` |
