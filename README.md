@@ -11,7 +11,7 @@ pattern in development of the Bot
 | Criteria | Details |
 |---------|---------|
 | API Base URL | `https://webexapis.com/v1` |
-| Authentication Method | `BEARER token` |
+| Authentication Method | `MDEwMDI1ZTMtMDcyZi00ZmNjLWJiODItY2E3MGRiMGE5NzdmNDdmYTJlYzYtYzUw_PE93_c18e13ae-5575-4bc0-ae01-e48905f14f17` |
 | Endpoint to list rooms | `https://webexapis.com/v1/rooms` |
 | Endpoint to get messages | `https://webexapis.com/v1/messages/{messageId}` |
 | Endpoint to send message | `https://webexapis.com/v1/messages` |
