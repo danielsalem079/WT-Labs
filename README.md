@@ -39,9 +39,9 @@ pattern in development of the Bot
 ## Geocoding API (4 marks)
 | Criteria | Details |
 |---------|---------|
-| Provider used (Choose one) | **LocationIQ / Mapbox/ OpenWeatherMap other -provide
+| Provider used (Choose one) | **OpenWeatherMap for both forward and reverse geocoding -provide
 detail** |
-| API Base URL | `_______________________________` |
+| API Base URL | `` |
 | Endpoint for geocoding | `_______________________________` |
 | Endpoint for reverse geocoding | `_______________________________` |
 | Authentication method | `_______________________________` |
