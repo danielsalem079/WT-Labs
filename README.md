@@ -22,8 +22,16 @@ pattern in development of the Bot
 | Criteria | Details |
 |---------|---------|
 | API Base URL | `http://api.open-notify.org` |
-| Endpoint for current ISS location | `_______________________________` |
+| Endpoint for current ISS location | `http://api.open-notify.org/iss-now.json` |
 | Sample response format (example JSON) |
+{
+  "message": "success",
+  "timestamp": 1735689600,
+  "iss_position": {
+    "latitude": "51.5000",
+    "longitude": "-0.1200"
+  }
+}
 ```
 ```
 |
