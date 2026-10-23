@@ -21,7 +21,7 @@ pattern in development of the Bot
 ## ISS Current Location API (2 marks)
 | Criteria | Details |
 |---------|---------|
-| API Base URL | `_______________________________` |
+| API Base URL | `http://api.open-notify.org` |
 | Endpoint for current ISS location | `_______________________________` |
 | Sample response format (example JSON) |
 ```
